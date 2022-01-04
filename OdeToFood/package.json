@@ -2,6 +2,7 @@
   "name": "odetofood",
   "version": "1.0.0",
   "dependencies": {
+    "@types/jquery": "^3.5.11",
     "datatables.net-bs": "^1.11.3"
   }
 }
